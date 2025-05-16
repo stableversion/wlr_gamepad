@@ -1,6 +1,6 @@
-A gamepad/trackpad for linux phones/tablets implemented using wayland’s layer shell protocol. As no-one has yet to.
+A gamepad/trackpad for linux phones/tablets implemented using wayland’s layer shell protocol. As no-one has yet to. While running it consumes ~2-5% cpu. While disabled it consumes 0% cpu, so you can always leave it running.
+![wlr_gamepad](https://github.com/user-attachments/assets/cbef0335-fb75-40b9-96c6-e4d04c774987)
 
-While running it consumes ~2-5% cpu. While disabled it consumes 0% cpu, so you can always leave it running.
 
 Controls:
 - **Activate edit:** mode by taping top left screen.
